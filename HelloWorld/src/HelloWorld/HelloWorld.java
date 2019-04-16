@@ -8,8 +8,8 @@ public class HelloWorld {
 		//add Le Quan Ngo to HelloWorld
 		System.out.println("Add Le Quan Ngo");
 		System.out.println("Add Anit Maria Joseph");
-		System.out.println("Hai");
-		
+
+
 	}
 
 }
